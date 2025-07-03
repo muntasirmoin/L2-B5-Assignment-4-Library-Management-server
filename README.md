@@ -2,7 +2,7 @@
 git commit -m"style added"
 git push origin main -->
 
-<h1 align="center">📚 Library Management System 📚</h1>
+<h1 align="center">📚 Library Management System Server 📚</h1>
 <h3 align="center">Develop a Library Management System using Express, TypeScript, and MongoDB (via Mongoose). </h3>
 
 <p align="center">
