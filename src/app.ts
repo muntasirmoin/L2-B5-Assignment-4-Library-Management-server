@@ -17,11 +17,13 @@ app.use(
 );
 
 app.get("/", (req: Request, res: Response) => {
-  res.send("welcome to library Management App");
+  res.send("welcome to library Management App Book!Nest");
 });
 
-app.use("/api/books", booksRoute);
-app.use("/api/borrow", borrowRoute);
+// app.use("/api/books", booksRoute);
+// app.use("/api/borrow", borrowRoute);
+app.use("/books", booksRoute);
+app.use("/borrow", borrowRoute);
 
 app.use(notFoundHandler);
 
