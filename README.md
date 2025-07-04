@@ -138,8 +138,12 @@ Follow the steps below to set up and run the project locally
 
 ## Submission
 
-- **GitHub Repository Link:**  
-  [GitHub Repo] ()
+### 📦 GitHub Repository Links:
 
-- **Live Deployment Link:**  
-  [Live Demo] ()
+- Frontend: https://github.com/muntasirmoin/L2-B5-Assignment-4-Library-Management-client.git
+- Backend: https://github.com/muntasirmoin/L2-B5-Assignment-4-Library-Management-server.git
+
+### 🌐 Live Deployment Links:
+
+- Frontend: https://library-management-client-woad.vercel.app/
+- Backend: https://library-managment-server-gilt.vercel.app/
